@@ -1,0 +1,7 @@
+C:\C#\Home_paranoik\Home_paranoik\bin\Debug\Home_paranoik.exe.config
+C:\C#\Home_paranoik\Home_paranoik\bin\Debug\Home_paranoik.exe
+C:\C#\Home_paranoik\Home_paranoik\bin\Debug\Home_paranoik.pdb
+C:\C#\Home_paranoik\Home_paranoik\obj\Debug\Home_paranoik.csprojAssemblyReference.cache
+C:\C#\Home_paranoik\Home_paranoik\obj\Debug\Home_paranoik.csproj.CoreCompileInputs.cache
+C:\C#\Home_paranoik\Home_paranoik\obj\Debug\Home_paranoik.exe
+C:\C#\Home_paranoik\Home_paranoik\obj\Debug\Home_paranoik.pdb
